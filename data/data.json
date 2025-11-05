@@ -1,0 +1,76 @@
+[
+  {
+    "id": "0801200304734",
+    "name": "Milton Alvarado",
+    "plates": [
+      {
+        "plateNumber": "ABC 1234",
+        "dueAmount": 44.00,
+        "dueDate": "2025-09-15",
+        "history": [
+          {"date": "2025-08-01", "amount": 22.00, "paid": true},
+          {"date": "2025-08-03", "amount": 22.00, "paid": true},
+          {"date": "2025-08-05", "amount": 22.00, "paid": true},
+          {"date": "2025-09-22", "amount": 22.00, "paid": true},
+          {"date": "2025-10-20", "amount": 22.00, "paid": true},
+          {"date": "2025-11-01", "amount": 22.00, "paid": false},
+          {"date": "2025-11-03", "amount": 22.00, "paid": false}
+        ]
+      },
+      {
+        "plateNumber": "XYZ 5678",
+        "dueAmount": 700.00,
+        "dueDate": "2025-10-10",
+        "history": [
+          {"date": "2025-08-02", "amount": 350.00},
+          {"date": "2025-08-06", "amount": 350.00}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0501199523456",
+    "name": "María López",
+    "plates": [
+      {
+        "plateNumber": "DEF 4321",
+        "dueAmount": 90.75,
+        "dueDate": "2025-11-20",
+        "history": [
+          {"date": "2025-08-04", "amount": 5.00},
+          {"date": "2025-08-07", "amount": 8.00}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0303198723678",
+    "name": "Carlos Gómez",
+    "plates": [
+      {
+        "plateNumber": "GHI 1111",
+        "dueAmount": 120.00,
+        "dueDate": "2025-12-05",
+        "history": [
+          {"date": "2025-08-01", "amount": 30.00},
+          {"date": "2025-08-07", "amount": 25.00}
+        ]
+      },
+      {
+        "plateNumber": "JKL 2222",
+        "dueAmount": 60.00,
+        "dueDate": "2025-09-30",
+        "history": [
+          {"date": "2025-07-30", "amount": 7.00},
+          {"date": "2025-08-06", "amount": 14.00}
+        ]
+      },
+      {
+        "plateNumber": "MNO 3333",
+        "dueAmount": 0.00,
+        "dueDate": "2026-01-15",
+        "history": []
+      }
+    ]
+  }
+]

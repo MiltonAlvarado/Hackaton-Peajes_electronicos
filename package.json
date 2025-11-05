@@ -1,0 +1,13 @@
+{
+  "name": "peaje-electronico-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No hay pruebas configuradas\"",
+    "dev": "node server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
